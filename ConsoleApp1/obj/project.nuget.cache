@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zqyfE0VM8Y95Kiuq76d17MdKeOHdBc8FuxO2muDmEPwi4sfgiYOUhAyF5gwBNEanIiLafdZFsAcqZbTHKlQvnA==",
+  "success": true,
+  "projectFilePath": "D:\\JUANSE\\UPB 2022\\Quinto Semestre 2023\\SCRIPTING\\prototipo de combate por turnos\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Pan\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Pan\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

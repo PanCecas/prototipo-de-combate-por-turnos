@@ -1,0 +1,5 @@
+D:\JUANSE\UPB 2022\Quinto Semestre 2023\SCRIPTING\prototipo de combate por turnos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\JUANSE\UPB 2022\Quinto Semestre 2023\SCRIPTING\prototipo de combate por turnos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\JUANSE\UPB 2022\Quinto Semestre 2023\SCRIPTING\prototipo de combate por turnos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\JUANSE\UPB 2022\Quinto Semestre 2023\SCRIPTING\prototipo de combate por turnos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\JUANSE\UPB 2022\Quinto Semestre 2023\SCRIPTING\prototipo de combate por turnos\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
